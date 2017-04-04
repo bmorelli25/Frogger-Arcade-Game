@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Frogger Arcade Game
 ===============================
 
 This was a fun little porject I completed after watching Udacity's course on [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015).
