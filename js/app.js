@@ -64,8 +64,8 @@ Player.prototype = {
     if (this.x > 400) this.x = 400;
     if (this.x < 0) this.x = 0;
     if (this.y > 402) this.y = 402;
-    if (this.y < 0) this.reset();
-    if (this.y < -8) this.y = -8;
+    if (this.y < -8) this.reset();
+    // if (this.y < -8) this.y = -8;
 
     player.render(); //render the updates
   },
